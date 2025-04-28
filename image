@@ -1,0 +1,1 @@
+Esta pasta contém as capturas de tela do projeto em funcionamento, incluindo exemplos da interface e do código Kotlin. As imagens ajudam a evidenciar como o aplicativo se comporta e ilustram a estrutura do código.
